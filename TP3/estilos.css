@@ -1,0 +1,71 @@
+.cabecera nav {
+	font-family:"Raleway", sans-serif;
+
+}
+
+body{
+	font-family: "Open Sans", sans-serif;
+}
+
+.promesa h6 {
+	font-family: "Raleway", sans-serif;
+}
+
+.promesa p {
+	font-size: 10px;
+}
+
+.hostroservices h1 {
+	font-family: "Raleway", sans-serif;
+}
+
+.imagen_formulario {
+     background-image: url("file:///Users/alexportocarrero/Downloads/assets/indexbanner-bg3.jpg");
+
+	 height: 410px;
+     background-size: cover;
+     font-family: "Raleway";
+     color: #ffffff;
+}
+
+.imagenprecios {
+	background-image: url("file:///Users/alexportocarrero/Downloads/assets/pricing-bg.jpg");
+
+    height: 410px;
+    background-size: cover;
+    font-family: "Raleway";
+}
+
+.imagenprecios p {
+	color: #cccccc;
+}
+
+.precio button{
+	font-family: "Raleway", sans-serif;
+}
+
+.precio button{
+	border-color:#0099ff;
+	background-color: #6699ff;
+	border-radius: 5px;
+	font-family: "Raleway";
+	color:#ffffff;
+}
+
+.aside aside{
+	color:#ffffff;
+}
+
+.aside aside span {
+	color: #6699ff;
+}
+
+
+footer {
+	width: 1300px;
+	background:#000033;
+    font-family: "Raleway", sans-serif;
+}
+
+
+

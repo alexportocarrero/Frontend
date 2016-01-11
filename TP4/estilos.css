@@ -1,0 +1,238 @@
+.cabecera {
+    position: relative;
+    padding:20px;
+}
+
+.cabecera nav {
+	font-family:"Raleway", sans-serif;
+}
+
+.cabeceranav {
+	position: absolute;
+	right:160px;
+	top:10px;
+}
+
+.cabecerahomecontact {
+	list-style: none;
+	display:inline-block;
+	}
+
+.cabecerahomecontact li{
+	display: inline-block;
+}
+
+.cabecerahomecontact a{
+	text-decoration: none;
+}
+
+.home {
+	color:#000000;
+	font-size: 12px;
+	font-weight: bold;
+	margin-right: 40px;
+}
+
+.contact {
+	color:#c0c0c0;
+	font-size: 12px;
+}
+
+body{
+	font-family: "Open Sans", sans-serif;
+}
+
+.imagen_formulario {
+     background-image: url("file:///Users/alexportocarrero/Desktop/Assets/assets/indexbanner-bg3.jpg");
+
+	 height: 410px;
+     background-size: cover;
+     font-family: "Raleway";
+     color: #ffffff;
+}
+
+.textoformulario {
+	position: absolute;
+	top: 200px;
+	left: 40px;
+}
+
+.textoformulario h1{
+    font-size: 40px;
+}
+
+.textoformulario p{
+	color:#ffffff;
+	font-family:"Raleway";
+}
+
+.formulario form input {
+	width: 800px;
+	height: 70px;
+}
+
+.formulario{
+	margin-left: 150px;
+	margin-top:-50px;
+}
+
+.formulario button {
+	background-color:#00ABF0;
+	color:#ffffff;
+	width:100px;
+	height:70px;
+
+}
+
+.promesas {
+	display: flex;
+	justify-content:space-around;
+	margin-top: 100px;
+	text-align: center;
+}
+
+
+.promesa h6 {
+	font-family: "Raleway", sans-serif;
+	font-size: 15px;
+}
+
+.promesa p {
+	font-size: 10px;
+
+}
+
+.hostroservices {
+	text-align: center;
+
+}
+
+.hostroservices h1 {
+	font-family: "Raleway";
+	font-size: 40px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.hostroservices p{
+	color:#777777;
+	font-family: "Raleway";
+}
+
+.servicios {
+    display: flex;
+    justify-content:space-around;
+    position: relative;
+    top:50px;
+}
+
+.columnaizquierda {
+	position: relative;
+}
+
+.columnaizquierda img {
+	position: absolute;
+	right: 0px
+}
+
+.servicio {
+	text-align: right;
+	padding-right: 60px;
+}
+
+.columnaderecha {
+	position: relative;
+}
+
+.columnaderecha img{
+	position: absolute;
+	left: 0px;
+}
+
+.serviciod {
+    text-align: left;
+    padding-left: 60px;
+}
+
+.imagenprecios {
+	background-image: url("file:///Users/alexportocarrero/Desktop/Assets/assets/pricing-bg.jpg");
+
+    height: 410px;
+    background-size: cover;
+    font-family: "Raleway";
+}
+
+.textoprecios {
+	text-align: center;
+	position: absolute;
+	top:1780px;
+	left:350px;
+}
+
+.textoprecios h1{
+	font-family: "Raleway";
+	font-size: 40px;
+}
+
+.textoprecios p{
+	color:#ffffff;
+}
+
+.imagenprecios h1{
+    font-size: 35px;
+	/* bajar fuente bold y cambiar font-weight: bold; */
+}
+
+.imagenprecios p {
+	color: #cccccc;
+}
+
+.imagenprecios h1 p{
+	position:relative;	
+}
+
+.precios {
+	display: flex;
+	justify-content: space-around;
+	position: relative;
+	bottom:100px;
+}
+
+.precio {
+	background-color: #ffffff;
+	width: 20%;
+}
+
+
+
+.precio button{
+	border-color:#00adfO;
+	background-color: #00adf0;
+	border-radius: 5px;
+	font-family: "Raleway", sans-serif;
+	color:#ffffff;
+}
+
+.aside aside{
+	width: 100%;
+	height: 120px;
+	background:#233141;
+	color:#ffffff;
+}
+
+.aside aside span {
+	color: #6699ff;
+}
+
+
+footer {
+	width: 100%;
+	height: 70px;
+	background:#151d26;
+    font-family: "Raleway", sans-serif;
+    color:#ffffff;
+}
+
+
+
+
